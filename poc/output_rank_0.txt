@@ -1,0 +1,5 @@
+Process 0 writing line 0
+Process 0 writing line 1
+Process 0 writing line 2
+Process 0 writing line 3
+Process 0 writing line 4

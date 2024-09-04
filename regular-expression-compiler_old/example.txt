@@ -1,0 +1,16 @@
+ab=ab+|z
+a=ab+|z
+abbbb=ab+|z
+bbbbb=ab+|z
+zzzzz=ab+|z
+z=ab+|z
+az=ab+|z
+azzzzz=ab+|az+
+ab=ab+|z
+a=ab+|z
+abbbb=ab+|z
+bbbbb=ab+|z
+zzzzz=ab+|z
+z=ab+|z
+az=ab+|z
+azzzzz=ab+|az+

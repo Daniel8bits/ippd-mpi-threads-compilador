@@ -1,0 +1,256 @@
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
+The text { aaaa } was ACCEPTED using regex { aa*} .
+The text { xyz } was ACCEPTED using regex { xy+z+} .
+The text { abc123 } was NOT ACCEPTED using regex { a*b*c*} .
+The text { 123 } was ACCEPTED using regex { 1*2*3*} .
+The text { ccbb } was NOT ACCEPTED using regex { cb*} .
+The text { bca } was NOT ACCEPTED using regex { bc?} .
+The text { aab } was ACCEPTED using regex { aa*b} .
+The text { aaab } was ACCEPTED using regex { a*b?} .
+The text { abc } was ACCEPTED using regex { ab+c} .
+The text { test } was NOT ACCEPTED using regex { te|st} .
+The text { match } was NOT ACCEPTED using regex { ma*ch} .
+The text { 123 } was ACCEPTED using regex { 1+2+3+} .
+The text { xyz } was ACCEPTED using regex { xy?z} .
+The text { abxy } was NOT ACCEPTED using regex { ab|xy} .
+The text { race } was ACCEPTED using regex { ra?ce} .
+The text { 001100 } was NOT ACCEPTED using regex { 0+1+} .
+The text { pqrs } was NOT ACCEPTED using regex { p|qrs} .
+The text { apple } was ACCEPTED using regex { app+le} .
+The text { abcdef } was ACCEPTED using regex { abc+def} .
+The text { abcd } was ACCEPTED using regex { a+b+c+d} .
+The text { mn } was ACCEPTED using regex { mn*} .
+The text { aa } was NOT ACCEPTED using regex { ab?} .
+The text { ab } was ACCEPTED using regex { abc?} .
+The text { bcd } was ACCEPTED using regex { bc+d} .
+The text { 0101 } was NOT ACCEPTED using regex { 0*1*} .
+The text { xyz } was ACCEPTED using regex { xy*z} .
+The text { cat } was NOT ACCEPTED using regex { c|a|t} .
+The text { xyyx } was NOT ACCEPTED using regex { xy|yx} .
+The text { aaabb } was ACCEPTED using regex { aa+b+b} .
+The text { hello } was ACCEPTED using regex { h+e+llo} .
+The text { 12345 } was NOT ACCEPTED using regex { 1|2|3|4|5} .
+The text { abcde } was ACCEPTED using regex { a+b?c+d+e} .
